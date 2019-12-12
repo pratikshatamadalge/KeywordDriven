@@ -27,6 +27,9 @@
 			<attribute name="m2e-apt" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/home/admin1/Downloads/guice-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/admin1/Downloads/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="/home/admin1/Downloads/velocity-dep-1.4.jar"/>
 	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
 		<attributes>
 			<attribute name="optional" value="true"/>

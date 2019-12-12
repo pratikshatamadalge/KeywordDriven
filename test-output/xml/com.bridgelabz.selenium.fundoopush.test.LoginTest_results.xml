@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Framework_Implementation Test1"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="88.716">
+  <properties />
+  
+  
+            <testcase name="loginTest" time="88.716" classname="com.bridgelabz.selenium.fundoopush.test.LoginTest" />
+      
+</testsuite>

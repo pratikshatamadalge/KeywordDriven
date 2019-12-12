@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-12T11:44:29Z" name="Framework_Implementation" finished-at="2019-12-12T11:46:23Z" duration-ms="114185">
+    <groups>
+    </groups>
+    <test started-at="2019-12-12T11:44:29Z" name="Framework_Implementation Test1" finished-at="2019-12-12T11:46:23Z" duration-ms="114185">
+      <class name="com.bridgelabz.selenium.fundoopush.test.LoginTest">
+        <test-method signature="loginTest()[pri:0, instance:com.bridgelabz.selenium.fundoopush.test.LoginTest@1dd02175]" started-at="2019-12-12T11:44:29Z" name="loginTest" finished-at="2019-12-12T11:46:23Z" duration-ms="114092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.bridgelabz.selenium.fundoopush.test.LoginTest -->
+    </test> <!-- Framework_Implementation Test1 -->
+  </suite> <!-- Framework_Implementation -->
+</testng-results>

@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-12-06T05:02:31Z" name="Default suite" finished-at="2019-12-06T05:02:45Z" duration-ms="14133">
+  <suite started-at="2019-12-12T11:42:12Z" name="Default suite" finished-at="2019-12-12T11:44:15Z" duration-ms="123807">
     <groups>
     </groups>
-    <test started-at="2019-12-06T05:02:31Z" name="Default test" finished-at="2019-12-06T05:02:45Z" duration-ms="14133">
+    <test started-at="2019-12-12T11:42:12Z" name="Default test" finished-at="2019-12-12T11:44:15Z" duration-ms="123807">
       <class name="com.bridgelabz.selenium.fundoopush.test.LoginTest">
-        <test-method signature="loginTest()[pri:0, instance:com.bridgelabz.selenium.fundoopush.test.LoginTest@534df152]" started-at="2019-12-06T05:02:31Z" name="loginTest" finished-at="2019-12-06T05:02:45Z" duration-ms="14091" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.bridgelabz.selenium.fundoopush.test.LoginTest@20d3d15a]" started-at="2019-12-12T11:42:12Z" name="loginTest" finished-at="2019-12-12T11:44:15Z" duration-ms="123716" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
